@@ -1,0 +1,207 @@
+#body1 {
+  background-color: rgb(243, 215, 243);
+}
+#img-logo {
+  width: 30px;
+  height: 30px;
+}
+#tital {
+  font-size: 20px;
+  position: absolute;
+  top: 10px;
+  left: 45px;
+}
+#fa-angle-down {
+  position: absolute;
+  top: 10px;
+  left: 125px;
+}
+#h2-1 {
+  width: 90px;
+  height: 30px;
+  color: white;
+  text-align: center;
+  background-color: black;
+  position: absolute;
+  top: 6px;
+  left: 2100px;
+  border-radius: 20px;
+}
+#h3-1 {
+  position: absolute;
+  top: 20px;
+  left: 2200px;
+}
+#fa-circle-question {
+  position: absolute;
+  top: 20px;
+  left: 2350px;
+}
+
+#h1-2 {
+  font-size: 40px;
+  position: absolute;
+  top: 90px;
+  left: 650px;
+}
+
+#h2-2 {
+  font-size: 20px;
+  position: absolute;
+  top: 190px;
+  left: 650px;
+}
+
+#fa-chevron-left {
+  font-size: 20px;
+  position: absolute;
+  top: 250px;
+  left: 1950px;
+}
+#fa-chevron-right {
+  font-size: 20px;
+  position: absolute;
+  top: 250px;
+  left: 2000px;
+}
+#htmlP {
+  font-size: 20px;
+  position: absolute;
+  top: 290px;
+  left: 650px;
+}
+
+#name1 {
+  margin: 0px 0px 0px 90px;
+  font-size: 20px;
+  position: absolute;
+  top: 540px;
+  left: 650px;
+}
+#name2 {
+  margin: 0px 0px 0px 90px;
+  font-size: 20px;
+  position: absolute;
+  top: 540px;
+  left: 870px;
+}
+#name3 {
+  margin: 0px 0px 0px 90px;
+  font-size: 20px;
+  position: absolute;
+  top: 540px;
+  left: 1100px;
+}
+#name4 {
+  margin: 0px 0px 0px 90px;
+  font-size: 20px;
+  position: absolute;
+  top: 540px;
+  left: 1300px;
+}
+#name5 {
+  margin: 0px 0px 0px 90px;
+  font-size: 20px;
+  position: absolute;
+  top: 540px;
+  left: 1520px;
+}
+#name6 {
+  margin: 0px 0px 0px 90px;
+  font-size: 20px;
+  position: absolute;
+  top: 540px;
+  left: 1800px;
+}
+
+#something-new {
+  font-size: 20px;
+  position: absolute;
+  top: 600px;
+  left: 650px;
+}
+#boten-left {
+  font-size: 20px;
+  position: absolute;
+  top: 590px;
+  left: 1950px;
+}
+#boten-right {
+  font-size: 20px;
+  position: absolute;
+  top: 590px;
+  left: 2000px;
+}
+#img1 {
+  font-size: 20px;
+  position: absolute;
+  top: 650px;
+  left: 650px;
+}
+#img2 {
+  font-size: 20px;
+  position: absolute;
+  top: 720px;
+  left: 650px;
+}
+#img3 {
+  font-size: 20px;
+  position: absolute;
+  top: 790px;
+  left: 650px;
+}
+#img4 {
+  font-size: 20px;
+  position: absolute;
+  top: 650px;
+  left: 1550px;
+}
+#img5 {
+  font-size: 20px;
+  position: absolute;
+  top: 720px;
+  left: 1550px;
+}
+#img6 {
+  font-size: 20px;
+  position: absolute;
+  top: 790px;
+  left: 1550px;
+}
+
+#word1 {
+  font-size: 20px;
+  position: absolute;
+  top: 660px;
+  left: 710px;
+}
+#word2 {
+  font-size: 20px;
+  position: absolute;
+  top: 735px;
+  left: 710px;
+}
+#word3 {
+  font-size: 20px;
+  position: absolute;
+  top: 810px;
+  left: 710px;
+}
+#word4 {
+  font-size: 20px;
+  position: absolute;
+  top: 660px;
+  left: 1610px;
+}
+#word5 {
+  font-size: 20px;
+  position: absolute;
+  top: 740px;
+  left: 1610px;
+}
+#word6 {
+  font-size: 20px;
+  position: absolute;
+  top: 810px;
+  left: 1610px;
+}
